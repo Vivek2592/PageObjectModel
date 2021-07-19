@@ -27,5 +27,9 @@ public class LoginPage extends TestBase{
 		
 	}
 	
+	public void Login2() {
+		
+	}
+	
 
 }
