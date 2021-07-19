@@ -1,0 +1,10 @@
+<suite name= "Framework build ">
+	<test name = " Run Framework ">
+	
+	<classes>
+	<class name = "com.qa.Test.LoginPageTest" />
+	<class name = "com.qa.Test.HomePageTest" />
+	</classes>
+	
+	</test>
+</suite> 

@@ -1,0 +1,18 @@
+<suite name= "Framework build ">
+
+	<listners>
+		<listner class-name= "com.qa.ExtentReportListner.ExtentReporterNG " />
+	</listners>>
+	
+	
+
+
+	<test name = " Run Framework ">
+	
+	<classes>
+	<class name = "com.qa.Test.LoginPageTest" />
+	<class name = "com.qa.Test.HomePageTest" />
+	</classes>
+	
+	</test>
+</suite> 
